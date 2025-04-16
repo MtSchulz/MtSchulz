@@ -1,6 +1,6 @@
 <h1 align="center">Olá, eu sou Matheus Schulz 👋</h1>
 
-🎓 Desenvolvedor Júnior em formação pelo SENAI no curso Técnico em Desenvolvimento de Sistemas. Apaixonado por tecnologia
+🎓 Desenvolvedor Júnior em formação pelo SENAI no curso Técnico em Desenvolvimento de Sistemas. Apaixonado por tecnologia!
 
 ---
 
