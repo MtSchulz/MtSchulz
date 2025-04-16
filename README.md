@@ -24,7 +24,7 @@
     align="left" 
     alt="GitHub Stats" 
     height="200"
-    width="400" 
+    width="420" 
     style="padding-right: 5px;" 
     src="https://github-readme-stats.vercel.app/api?username=MtSchulz&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
@@ -33,7 +33,7 @@
       align="left" 
       alt="GitHub Stats" 
       height="200"
-      width="350"
+      width="370"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=MtSchulz&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
